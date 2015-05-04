@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/itemSend" android:title="@string/sendScreenshot"></item>
+
+    <item android:id="@+id/showLocation" android:title="@string/showLocation"></item>
+    <item android:id="@+id/colorSelect" android:title="@string/selectColor"></item>
+    <item android:id="@+id/clearCanvas" android:title="@string/clearCanvas"></item>
+</menu>

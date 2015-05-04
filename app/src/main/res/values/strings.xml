@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Big Drawing</string>
+    <string name="action_settings">Settings</string>
+    <string name="selectColor">Select Color</string>
+    <string name="showLocation">Show Location</string>
+    <string name="clearCanvas">Clear Canvas</string>
+    <string name="title_activity_color_select">Color Select</string>
+    <string name="sendScreenshot">Send Screenshot</string>
+
+</resources>
